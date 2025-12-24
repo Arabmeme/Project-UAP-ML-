@@ -1,0 +1,11 @@
+# ignore model artifacts (too large for GitHub)
+UAP-Streamlit/models/*.pkl
+UAP-Streamlit/models/*.pt
+UAP-Streamlit/models/*.h5
+UAP-Streamlit/models/*.zip
+
+# python cache / venv
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/

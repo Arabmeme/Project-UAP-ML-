@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+tensorflow
+torch
+pytorch-tabnet
+rtdl-revisiting-models
+gdown
